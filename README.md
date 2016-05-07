@@ -1,0 +1,1 @@
+Opensource and 64Bit compatible version of the manager application used by this device by Vidia Srl: http://www.e-videosorveglianza.it/prodotto/raccoglitore-cd-dvd/
